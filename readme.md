@@ -11,7 +11,7 @@ boards.  These are:
 * Raspberry Pi & Pi Zero
 * Arduino Nano (and STM32F103 Nano form-factor)
 
-![Hybohat Assembly](images/hybohat-assy-front.jpg)
+![Hybohat Assembly](images/hybohat800.jpg)
 
 ## Concept
 
