@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name hybohat)(type KiCad)(uri ${KIPRJMOD}/libs/hybohat.pretty)(options "")(descr ""))
+)

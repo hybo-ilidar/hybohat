@@ -1,0 +1,5 @@
+*.exe
+*.obj
+*.zip
+*bak
+fp-info-cache
