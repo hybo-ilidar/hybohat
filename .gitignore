@@ -3,3 +3,4 @@
 *.zip
 *bak
 fp-info-cache
+**/.DS_Store

@@ -1,0 +1,27 @@
+Drill report for /Users/rclott/root/files/projs/hybo/eda/public-hybohat/hybohat.kicad_pcb
+Created on 2020 November 12, Thursday 09:24:09
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'hybohat-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.40mm  0.016"  (126 holes)
+    T2  1.00mm  0.039"  (450 holes)
+    T3  2.20mm  0.087"  (2 holes)
+    T4  3.20mm  0.126"  (4 holes)
+    T5  3.20mm  0.126"  (10 holes)
+
+    Total plated holes count 592
+
+
+Drill file 'hybohat-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+    T1  3.20mm  0.126"  (2 holes)
+
+    Total unplated holes count 2
