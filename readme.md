@@ -1,5 +1,12 @@
 # Hybohat Development Board 
 
+## Update R3
+
+Correction was made for Arduino Nano module.
+ESP32 module was adjusted for use with male pin header modules.
+
+## Introduction
+
 The Hybohat module was designed as a simple, passive way to interconnect
 the User I/O connector of the iLidar to a variety of common development
 boards.  These are:
